@@ -1,0 +1,22 @@
+h1 {
+    letter-spacing: 3px;
+    font-size: 10em;
+    font-weight: 400;
+    text-align: center;   
+    line-height: 1;
+    text-transform: uppercase;
+    background: -webkit-linear-gradient(#26C6DA, #FFB74D);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+   }
+h6 {
+    letter-spacing: 3px;
+    font-size: 2em;
+    font-weight: 400;
+    text-align: center;   
+    line-height: 2;
+    text-transform: lowercase;
+    background: -webkit-linear-gradient(#E91E63, #009688);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+   }
